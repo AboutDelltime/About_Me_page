@@ -39,14 +39,15 @@ h2 {
 }
 
 .image {
-    margin-top: 10rem;
-    margin-bottom: 5rem;
+    margin-top: 15rem;
+    margin-bottom: 10rem;
 }
 
 p {
     font-size: 2rem;
-    color: #fff;
+    color: #333333;
     line-height: 5rem;
+    flex-wrap: wrap;
 }
 
 .btn {
@@ -62,6 +63,6 @@ p {
 }
 
 .btn:hover {
-    background: #dadada;
+    background:  darkblue; 
 
 }
